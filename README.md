@@ -4,10 +4,10 @@ This project is a web scraper designed to monitor the price of a specific produc
 # Project Overview
 The Flipkart Web Scraper performs the following tasks:
 
-Connects to a Flipkart product page and retrieves the product's title and price.
+• Connects to a Flipkart product page and retrieves the product's title and price.
 
-Cleans the retrieved data and saves it to a CSV file.
+• Cleans the retrieved data and saves it to a CSV file.
 
-Appends new data to the CSV file at regular intervals.
+• Appends new data to the CSV file at regular intervals.
 
-Optionally sends an email notification when the product price drops below a specified value.
+• Optionally sends an email notification when the product price drops below a specified value.
